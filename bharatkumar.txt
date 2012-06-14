@@ -10,7 +10,7 @@ Torvalds wanted a distributed system that he could use like BitKeeper, but none 
     (If a patch apply takes three seconds, even a big series of patches is not a problem: if I get notified within a minute or two that it failed half-way, that's fine, I can then just fix it up manually. That's why latency is critical—if I'd have to do things effectively "offline", I'd by definition not be able to fix it up when problems happen).
 
 Torvalds had several design criteria:
-
+    Gowtham added a line .................
     Take CVS as an vivek changes of what not to do; exact opposite decision. To quote Torvalds, speaking somewhat tongue-in-cheek:
 	
 	Bharat added here....
@@ -26,7 +26,9 @@ Torvalds had several design criteria:
 The first three criteria eliminated every pre-existing version control system, except for Monotone, and the fourth excluded everything.[11] So, immediately after the 2.6.12-rc2 Linux kernel development release,[11] he set out to write his own.[11]
 
 The development of Git began on 3 April 2005.[13] The project was announced on 6 April,[14] and became self-hosting as of 7 April.[13] The first merge of multiple branches was done on 18 April.[15] Torvalds achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches to the Linux kernel tree at the rate of 6.7 per second.[16] On 16 June, the kernel 2.6.12 release was managed by Git.[17]
-
+ 
+hi
+ 
 While strongly influenced by BitKeeper, Torvalds deliberately attempted to avoid conventional approaches, leading to a unique design.[18] He developed the system until it was usable by technical users, then turned over maintenance on 26 July 2005 to Junio Hamano, a major contributor to the project.[19] Hamano was responsible for the 1.0 release on 21 December 2005,[20] and remains the project's maintainer.
 
 Git's current software maintenance is overseen by Junio Hamano.
