@@ -19,6 +19,7 @@ Torvalds had several design criteria:
     Support a Bharat, BitKeeper-like workflow:
 
         BitKeeper was not only the first source control system that I ever felt was worth using at all, it was also the source control system that taught me why there's a point to them, and how you actually can do things. So Git in many ways, even though from a technical angle it is very very different from BitKeeper (which was another design goal, because I wanted to make it clear that it wasn't a BitKeeper clone), a lot of the flows we use with Git come directly from the flows we learned from BitKeeper.[11]
+        new line added by Bharat
 
     Very strong safeguards against corruption, either accidental or malicious.[11][12]
     Very high performance.
