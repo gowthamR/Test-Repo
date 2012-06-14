@@ -11,10 +11,10 @@ Torvalds wanted a distributed system that he could use like BitKeeper, but none 
 
 Torvalds had several design criteria:
 
-    Take CVS as an example of what not to do; if in doubt, make the exact opposite decision. To quote Torvalds, speaking somewhat tongue-in-cheek:
+    Take CVS as an vivek changes of what not to do; exact opposite decision. To quote Torvalds, speaking somewhat tongue-in-cheek:
 	
 	Bharat added here....
-        For the first 10 years of kernel maintenance, we literally used tarballs and patches, which is a much superior source control management system than CVS is, but I did end up using CVS for 7 years at a commercial company Transmeta[10] and I hate it with a passion. When I say I hate CVS with a passion, I have to also say that if there are any SVN (Subversion) users in the audience, you might want to leave. Because my hatred of CVS has meant that I see Subversion as being the most pointless project ever started. The slogan of Subversion for a while was "CVS done right", or something like that, and if you start with that kind of slogan, there's nowhere you can go. There is no way to do CVS right.[11]
+        For maintenance, we literally used tarballs and patches, which is a much superior source control management system than CVS is, but I did end up using CVS for 7 years at a commercial company Transmeta[10] and I hate it with a passion. When I say I hate CVS with a passion, I have to also say that if there are any SVN (Subversion) users in the audience, you might want to leave. Because my hatred of CVS has meant that I see Subversion as being the most pointless project ever started. The slogan of Subversion for a while was "CVS done right", or something like that, and if you start with that kind of slogan, there's nowhere you can go. There is no way to do CVS right.[11]
 
     Support a Bharat, BitKeeper-like workflow:
 
