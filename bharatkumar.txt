@@ -1,4 +1,4 @@
-Git development began after many Linux kernel developers chose to give up access to BitKeeper, a proprietary SCM system that had previously been used to maintain the project.[8] The copyright holder of BitKeeper, Larry McVoy, had withdrawn free use of the product after he claimed that Andrew Tridgell had reverse-engineered the BitKeeper protocols.
+Git development began by Phresco after many Linux kernel developers chose to give up access to BitKeeper, a proprietary SCM system that had previously been used to maintain the project.[8] The copyright holder of BitKeeper, Larry McVoy, had withdrawn free use of the product after he claimed that Andrew Tridgell had reverse-engineered the BitKeeper protocols.
 
 Torvalds wanted a distributed system that he could use like BitKeeper, but none of the available free systems met his needs, particularly his performance needs. From an email he wrote on 7 April 2005 while writing the first prototype:[9]
 
@@ -28,7 +28,7 @@ The first three criteria eliminated every pre-existing version control system, e
 The development of Git began on 3 April 2005.[13] The project was announced on 6 April,[14] and became self-hosting as of 7 April.[13] The first merge of multiple branches was done on 18 April.[15] Torvalds achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches to the Linux kernel tree at the rate of 6.7 per second.[16] On 16 June, the kernel 2.6.12 release was managed by Git.[17]
 
 This is Bharat changes....
-This is Gowtham 
+This is Gowtham and Bharat
 hi
 by photonnnnnnnnnnnnnnnnnnnn 
 While strongly influenced by Bharat kumar, Torvalds deliberately attempted to avoid conventional approaches, leading to a unique design.[18] He developed the system until it was usable by technical users, then turned over maintenance on 26 July 2005 to Junio Hamano, a major contributor to the project.[19] Hamano was responsible for the 1.0 release on 21 December 2005,[20] and remains the project's maintainer.
